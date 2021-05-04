@@ -12,6 +12,8 @@
 - GET localhost/api/backend?s=
 - GET localhost/api/backend?s=&sort=
 
+Remember To Run factory for fake data, and All data is limit or paginated by 6.
+
 ## Installation
 1. Clone this project
     ```bash
