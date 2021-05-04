@@ -15,10 +15,8 @@
 Remember To Run factory for fake data, and All data is limit or paginated by 6.
 
 ## Installation
-1. Clone this project
+1. Clone this project and cd
     ```bash
-    git clone https://github.com/laughface809/Passwordnya
-    cd Passwordnya
     ```
 2. Install dependencies
     ```bash
