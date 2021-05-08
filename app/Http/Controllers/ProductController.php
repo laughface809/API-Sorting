@@ -38,4 +38,3 @@ class ProductController extends Controller
             ];
         }
 }
- firt, last, address, phone, date of birth, gender, and photos , save and show
